@@ -1,3 +1,5 @@
+update convertcsv set counter =counter+1;
+
 insert into festivals values('2022-01-01','ఆంగ్ల సంవత్సరాదిి,మాస శివరాత్రి ');
 insert into festivals values('2022-01-02','వరల్డ్ నేచర్ డే , అమావాస్య ');
 insert into festivals values('2022-01-10','దుర్గాష్టమి వ్రతం');
