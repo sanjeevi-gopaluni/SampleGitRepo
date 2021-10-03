@@ -165,4 +165,4 @@ insert into festivals values('2022-12-23','అమావాస్య ');
 insert into festivals values('2022-12-24','క్రిస్టమస్ ఈవ్');
 insert into festivals values('2022-12-25','క్రిస్టమస్');
 
-update into festivals set date=now(); // new commit from benyoucan
+update into festivals set date=date+2; // new commit from benyoucan
